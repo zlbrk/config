@@ -1,0 +1,1 @@
+alias subl="C:/usr_local/Sublime/subl.exe"
